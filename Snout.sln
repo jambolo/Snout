@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snout", "Snout.vcproj", "{81824415-76F0-42E2-8B96-566030723299}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AfxMisc", "..\Libraries\Misc\AfxMisc.vcproj", "{758468A4-920A-4BF9-936A-B41F0D3CD31D}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 3
+		SccProjectName0 = \u0022$/Snout\u0022,\u0020GLAAAAAA
+		SccLocalPath0 = .
+		SccProvider0 = MSSCCI:Microsoft\u0020Visual\u0020SourceSafe
+		CanCheckoutShared = false
+		SolutionUniqueID = {A9C058DB-2D9B-4D73-9240-C5791E45F95B}
+		SccProjectUniqueName1 = Snout.vcproj
+		SccLocalPath1 = .
+		CanCheckoutShared = false
+		SccProjectUniqueName2 = ..\\Libraries\\Misc\\AfxMisc.vcproj
+		SccProjectName2 = \u0022$/Libraries/Misc\u0022,\u0020KEAAAAAA
+		SccLocalPath2 = ..\\Libraries\\Misc
+		CanCheckoutShared = false
+	EndGlobalSection
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{81824415-76F0-42E2-8B96-566030723299}.Debug.ActiveCfg = Debug|Win32
+		{81824415-76F0-42E2-8B96-566030723299}.Debug.Build.0 = Debug|Win32
+		{81824415-76F0-42E2-8B96-566030723299}.Release.ActiveCfg = Release|Win32
+		{81824415-76F0-42E2-8B96-566030723299}.Release.Build.0 = Release|Win32
+		{758468A4-920A-4BF9-936A-B41F0D3CD31D}.Debug.ActiveCfg = Debug|Win32
+		{758468A4-920A-4BF9-936A-B41F0D3CD31D}.Release.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
